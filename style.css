@@ -11,6 +11,7 @@ h1 {
   text-align: center;
   margin-top: 80px;
   margin-bottom: 0;
+  color: #e6d4a2;
 }
 
 .weather-app {
@@ -23,6 +24,7 @@ h1 {
   transform: translate(-50%, -50%);
   border-radius: 20px;
   padding: 20px;
+  box-shadow: 5px 5px 10px #8e96a2;
 }
 
 .location {
